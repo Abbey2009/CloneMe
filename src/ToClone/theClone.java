@@ -5,7 +5,7 @@ public class theClone {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-System.out.println("I am a clone!");
+System.out.println("I am a clone and I feel fine!");
 	}
 
 }
